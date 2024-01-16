@@ -1,0 +1,42 @@
+.back-img-5{
+    background-image: url("https://oldladygang.com/wp-content/uploads/2017/03/grammy.jpg");
+    background-attachment: scroll;
+    will-change: transform;
+    transform: translateY(-8.91753px) translateZ(0px);
+    height: 258.24px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.para{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 50px 0 0px;
+}
+.para-2{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.para-3{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0px 0px 0px;
+}
+.back-gr{
+    background-color: #f4f4f4;
+}
+.editt-h2{
+    letter-spacing: 7px;
+    text-transform: initial;
+    font-size: 28px;
+    color: #262626;
+    text-align: center;
+    font-style: inherit;
+    font-weight: 900;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}

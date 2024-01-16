@@ -1,0 +1,225 @@
+.back-img-6{
+    background-image: url("https://oldladygang.com/wp-content/uploads/2017/03/breakfast-1.jpg");
+    background-attachment: scroll;
+    will-change: transform;
+    transform: translateY(-10.8px) translateZ(0px);
+    height: 245.15px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+.third-1{
+    padding: 30px 20px;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.third-2{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+.third-3{
+    color: #c02b0a;
+    font-weight: 400;
+    font-size: 13px;
+    font-style: italic;
+}
+.he-30{
+    height: 30px;
+}
+.third-4{
+    display: flex;
+    align-items: flex-start;
+    /* flex-wrap: nowrap; */
+    flex-flow: nowrap;
+}
+.padd-1{
+    padding-right: 1%;
+    flex: 1;
+}
+.third-5{
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #e3e3e3;
+}
+input[type=email]:focus-visible, input[type=password]:focus-visible, input[type=search]:focus-visible, input[type=tel]:focus-visible, input[type=text]:focus-visible, input[type=url]:focus-visible, textarea:focus-visible,select:focus-visible{
+     outline: none;
+    
+}
+.third-6{
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row wrap;
+}
+.third-7{
+    flex-basis: min-content;
+    flex-flow: row wrap;
+    max-width: 30%;
+    align-content: flex-start;
+    align-items: center;
+    display: flex;
+    
+}
+.third-7 input{
+    min-width: 84px;
+    width: 100%;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 8px;
+    border: 1px solid #e3e3e3;
+}
+.third-8{
+    width: 100%;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 8px;
+    border: 1px solid #e3e3e3;
+}
+.add-1{
+    margin-left: -1%;
+    margin-right: -1%;
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row wrap;
+}
+.add-2{
+    padding-left: .9804%;
+    padding-right: .9804%;
+    flex: 0 0 100%;
+    margin-bottom: 8px;
+}
+.span-1{
+    font-size: 15px;
+    padding-top: 5px;
+    display: block;
+}
+.add-3{
+    flex: 0 0 50%;
+    padding-left: .9804%;
+    padding-right: .9804%;
+    margin-bottom: 8px;
+}
+.third-9{
+    background-color: #fdfdfd;
+    border: 1px solid #e3e3e3;
+    background-image: url(https://oldladygang.com/wp-content/themes/jupiter/assets/images/selectbox-arrow.png);
+    background-position: right center;
+    background-repeat: no-repeat;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 10px 12px 12px 16px;
+    font-size: 12px;
+    line-height: 14px;
+    color: #252525;
+    border-radius: 0;
+    font-weight: 700;
+    min-width: 240px;
+    max-width: 100%;
+    display: block;
+    width: 100%;
+    
+    margin-bottom: 0;
+    margin-top: 0;
+    
+    border: 1px solid #e3e3e3;
+}
+.input-1{
+    display: inline-block;
+    margin-top: 0;
+    top: 0;
+    vertical-align: middle;
+}
+.span-2{
+    margin-bottom: 0;
+    max-width: calc(100% - 32px);
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 5px;
+}
+.text-1{
+    height: 96px;
+    width: 100%;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 8px;
+    border: 1px solid #e3e3e3;
+}
+.span-3{
+    clear: both;
+    font-family: inherit;
+    font-size: 15px;
+    letter-spacing: normal;
+    line-height: inherit;
+    padding-top: 13px;
+    display: block;
+    width: 100%;
+    margin-top: 8px;
+}
+.submit-1{
+    margin: 6px 0 0;
+    display: flex;
+    padding: 16px 0;
+}
+.submit-2{
+    margin-bottom: 8px !important;
+    align-self: flex-end;
+    background-color: #c59d5f !important;
+    margin: 0;
+    border: none;
+    outline: 0!important;
+    font-size: 13px;
+    line-height: 13px!important;
+    padding: 12px 15px;
+    text-transform: uppercase;
+    vertical-align: top;
+    letter-spacing: 1px;
+    cursor: pointer;
+    position: relative;
+    font-family: inherit;
+    text-decoration: none;
+    overflow: visible;
+    font-weight: 700;
+    left: auto;
+    white-space: nowrap;
+    display: inline-block;
+    background-color: #252525;
+    color: #fff;
+}
+.p-1{
+        font-size: 16px;
+    color: #262526;
+    /* display: block; */
+    line-height: 1.66em;
+    margin-bottom: 20px;
+}
+.submit-2:hover{
+    background-color: #151515 !important;
+    color: #fff;       
+}
+.menu{
+    margin-left: -12px;
+    color: inherit;
+    padding: 12px;
+    font-size: 1.75rem;
+    margin-right: 16px;
+    display: inline-flex;
+}
+.menu-2{
+    font-size: 1.5rem;
+    height: 1em;
+    width: 1em;
+    cursor: pointer;
+}
